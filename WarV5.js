@@ -1,3 +1,4 @@
+console.log("enter startRound() to begin each round")
 var makeDeck = function() {
     var deck =[];
     
